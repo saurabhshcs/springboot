@@ -1,13 +1,13 @@
-package com.tsz.springboot;
+package com.tsz.userservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootApplication {
+public class UserserviceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootApplication.class, args);
+		SpringApplication.run(UserserviceApplication.class, args);
 	}
 
 }
